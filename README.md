@@ -1,1 +1,1 @@
-# Sum-of-First-N-Natural-Numbers-in-C-
+# Sum-of-First-N-Natural-Numbers-in-Cpp
